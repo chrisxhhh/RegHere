@@ -1,0 +1,18 @@
+
+
+server:
+  port: 5000
+
+
+#app:
+#  datasource:
+#    jdbc-url: jdbc:postgresql://localhost:5432/chrisdemo
+#    username: postgres
+#    password: password
+#    pool-size: 30
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://reghere-db.ckpzuppilq5j.us-east-1.rds.amazonaws.com:5432/regHeredb
+    username: chrishhh
+    password: 65410173Qwer
+    pool-size: 30
